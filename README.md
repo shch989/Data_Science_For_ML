@@ -22,3 +22,7 @@ jupyter notebook
 ```
 conda deactivate
 ```
+###
+```
+conda activate ./env
+```
